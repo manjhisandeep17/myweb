@@ -9,6 +9,7 @@ export function NavbarDemo() {''
       <Navbar className="top-2" />
       <p className=" dark:text-white">
       </p>
+      <br />
     </div>
   );
 }
